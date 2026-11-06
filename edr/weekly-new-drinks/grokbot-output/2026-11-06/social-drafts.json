@@ -1,0 +1,298 @@
+{
+  "status": "DRAFT ONLY \u2014 manual review before any post",
+  "kitPurpose": "Local catch-up draft kit with 5 themed graphics; box only \u2014 not saved to GitHub",
+  "sourceRepo": "Tom62g/social-images",
+  "sourceRef": "main",
+  "sourceCommit": "fd89ef3d8a364b87a4cb60a842b7e55b721688e9",
+  "runDate": "2026-11-06",
+  "count": 58,
+  "dateBasis": "day the drink was added to the catalog (catch-up run; publish day can be later)",
+  "rawManifestUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/new-drinks.json",
+  "newPageUrl": "https://energydrinkratings.com/new",
+  "newPageNote": "/new shows recent catalog adds across ~35 days; these 5 graphics are themed selections from the 58 catch-up drinks, not a claim that /new is only those 58.",
+  "claudeOriginalPoster": "source/claude-original/poster-claude-catchup.png",
+  "pinterestBoard": "Energy Drinks",
+  "utmCampaign": "edr_catalog_additions_2026_11_06",
+  "doNotAutoPost": true,
+  "distinctFromMonday10amLaunches": true,
+  "batches": [
+    {
+      "id": "01-winter-dessert",
+      "title": "Winter & dessert vibes",
+      "hook": "Seasonal and dessert-leaning flavors just added to the catalog",
+      "rationale": "Seasonal/dessert-leaning flavors that invite curiosity (pistachio-berry, Shirley Temple, vanilla, candy apple).",
+      "drinks": [
+        {
+          "name": "Red Bull The Winter Edition, Pistachio & Berries",
+          "brand": "Red Bull",
+          "slug": "red-bull-the-winter-edition-pistachio-berries",
+          "datePublished": "2026-11-01"
+        },
+        {
+          "name": "Celsius Spritz Vibe Sparkling Shirley Temple",
+          "brand": "Celsius",
+          "slug": "celsius-spritz-vibe-sparkling-shirley-temple",
+          "datePublished": "2026-11-01"
+        },
+        {
+          "name": "Monster Energy Vanilla Shot",
+          "brand": "Monster Energy",
+          "slug": "monster-energy-vanilla-shot",
+          "datePublished": "2026-11-01"
+        },
+        {
+          "name": "Sparkling Candy Apple",
+          "brand": "Gorgie",
+          "slug": "sparkling-candy-apple",
+          "datePublished": "2026-10-31"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/01-winter-dessert-pinterest-1000x1500.jpg",
+        "squareCrop": "graphics/01-winter-dessert-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Winter & dessert vibes.\n\nWe added these to the Energy Drink Ratings catalog, including Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple, Monster Energy Vanilla Shot.\n\nWhich have you tried\u2014and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Winter & dessert vibes \u2014 added to our catalog Oct 23\u2013Nov 6.\nIncluding Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple.\nWhich would you try next?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-square-1000.jpg",
+        "charCount": 351
+      },
+      "pinterest": {
+        "title": "Winter & dessert energy drinks just added to EDR",
+        "description": "Seasonal and dessert-leaning flavors just added to the catalog. Featured: Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple, Monster Energy Vanilla Shot, Sparkling Candy Apple. Added to the Energy Drink Ratings catalog between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "altText": "Poster: Winter & dessert vibes \u2014 four energy drink cans (Red Bull Winter Edition Pistachio & Berries, Celsius Shirley Temple, Monster Vanilla Shot, Gorgie Sparkling Candy Apple) on frosted navy winter background for Energy Drink Ratings",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "02-new-brands",
+      "title": "New brands on EDR",
+      "hook": "First flavors from brands newly listed in this catch-up",
+      "rationale": "First appearances from brands newly listed in this catch-up \u2014 discovery hook.",
+      "drinks": [
+        {
+          "name": "Angry Angel Fuel Peach Ginger",
+          "brand": "Angry Angel",
+          "slug": "angry-angel-fuel-peach-ginger",
+          "datePublished": "2026-10-28"
+        },
+        {
+          "name": "Hawk Energy Ultra Lightning Lemonade",
+          "brand": "Hawk Energy",
+          "slug": "hawk-energy-ultra-lightning-lemonade",
+          "datePublished": "2026-10-27"
+        },
+        {
+          "name": "Be Love Lemonade Lift",
+          "brand": "Love energy",
+          "slug": "be-love-lemonade-lift",
+          "datePublished": "2026-10-26"
+        },
+        {
+          "name": "Gym Soda Rainbow Sherbet",
+          "brand": "GYM Soda",
+          "slug": "gym-soda-rainbow-sherbet",
+          "datePublished": "2026-10-24"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/02-new-brands-pinterest-1000x1500.jpg",
+        "squareCrop": "graphics/02-new-brands-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "New brands on EDR.\n\nWe added these to the Energy Drink Ratings catalog, including Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade, Be Love Lemonade Lift.\n\nWhich have you tried\u2014and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "New brands on EDR \u2014 added to our catalog Oct 23\u2013Nov 6.\nIncluding Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade.\nWhich would you try next?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-square-1000.jpg",
+        "charCount": 315
+      },
+      "pinterest": {
+        "title": "New energy drink brands just listed on EDR",
+        "description": "First flavors from brands newly listed in this catch-up. Featured: Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade, Be Love Lemonade Lift, Gym Soda Rainbow Sherbet. Added to the Energy Drink Ratings catalog between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "altText": "Poster: New brands on EDR \u2014 four cans (Angry Angel Peach Ginger, Hawk Lightning Lemonade, Be Love Lemonade Lift, Gym Soda Rainbow Sherbet) on dark teal spotlight background for Energy Drink Ratings",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "03-zero-sugar",
+      "title": "Zero-sugar picks",
+      "hook": "Zero-sugar catalog additions worth a closer look",
+      "rationale": "Zero-sugar catalog adds for shoppers comparing labeled sugar.",
+      "drinks": [
+        {
+          "name": "LIFEAID FocusAid Zero Sugar Kiwi Strawberry",
+          "brand": "LIFEAID",
+          "slug": "lifeaid-focusaid-zero-sugar-kiwi-strawberry",
+          "datePublished": "2026-11-05"
+        },
+        {
+          "name": "Monster Energy Zero Sugar Vanilla Shot",
+          "brand": "Monster Energy",
+          "slug": "monster-energy-zero-sugar-vanilla-shot",
+          "datePublished": "2026-11-01"
+        },
+        {
+          "name": "Red Bull The Winter Edition Sugarfree, Pistachio & Berries",
+          "brand": "Red Bull",
+          "slug": "red-bull-the-winter-edition-sugarfree-pistachio-berries",
+          "datePublished": "2026-11-01"
+        },
+        {
+          "name": "Hiball Energy Watermelon Mint",
+          "brand": "Hi ball energy",
+          "slug": "hiball-energy-watermelon-mint",
+          "datePublished": "2026-10-25"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/03-zero-sugar-pinterest-1000x1500.jpg",
+        "squareCrop": "graphics/03-zero-sugar-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Zero-sugar picks.\n\nWe added these to the Energy Drink Ratings catalog, including LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot, Red Bull The Winter Edition Sugarfree, Pistachio & Berries.\n\nWhich have you tried\u2014and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Zero-sugar picks \u2014 added to our catalog Oct 23\u2013Nov 6.\nIncluding LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot.\nWhich would you try next?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-square-1000.jpg",
+        "charCount": 330
+      },
+      "pinterest": {
+        "title": "Zero-sugar energy drinks newly added to EDR",
+        "description": "Zero-sugar catalog additions worth a closer look. Featured: LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot, Red Bull The Winter Edition Sugarfree, Pistachio & Berries, Hiball Energy Watermelon Mint. Added to the Energy Drink Ratings catalog between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "altText": "Poster: Zero-sugar picks \u2014 four cans (LIFEAID FocusAid Kiwi Strawberry, Monster Zero Sugar Vanilla Shot, Red Bull Winter Sugarfree Pistachio & Berries, Hiball Watermelon Mint) on light ice-blue background for Energy Drink Ratings",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "04-citrus-lemonade",
+      "title": "Citrus & lemonade",
+      "hook": "Bright citrus and lemonade flavors from the catch-up list",
+      "rationale": "Bright citrus/lemonade flavor cluster for a refreshing scroll-stopper.",
+      "drinks": [
+        {
+          "name": "Rip It Power Sharp Citrus",
+          "brand": "Rip It Energy",
+          "slug": "rip-it-power-sharp-citrus",
+          "datePublished": "2026-10-23"
+        },
+        {
+          "name": "El Jefe Phantom Lemonade",
+          "brand": "El Jefe Energy",
+          "slug": "el-jefe-phantom-lemonade",
+          "datePublished": "2026-10-25"
+        },
+        {
+          "name": "Yesly Lime",
+          "brand": "Yesly",
+          "slug": "yesly-lime",
+          "datePublished": "2026-10-23"
+        },
+        {
+          "name": "Accelerator Cherry Limeade",
+          "brand": "Accelerator",
+          "slug": "accelerator-cherry-limeade",
+          "datePublished": "2026-10-23"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/04-citrus-lemonade-pinterest-1000x1500-v2.jpg",
+        "squareCrop": "graphics/04-citrus-lemonade-square-1000-v2.jpg",
+        "pinterestMasterCanonical": "graphics/04-citrus-lemonade-pinterest-1000x1500.jpg",
+        "squareCropCanonical": "graphics/04-citrus-lemonade-square-1000.jpg",
+        "contrastFix": "v2 pale frosted header/footer bands + dark type over citrus bg"
+      },
+      "facebook": {
+        "caption": "Citrus & lemonade.\n\nWe added these to the Energy Drink Ratings catalog, including Rip It Power Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime.\n\nWhich have you tried\u2014and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-pinterest-1000x1500-v2.jpg"
+      },
+      "threads": {
+        "caption": "Citrus & lemonade \u2014 added to our catalog Oct 23\u2013Nov 6.\nIncluding Rip It Power Sharp Citrus, El Jefe Phantom Lemonade.\nWhich would you try next?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-square-1000-v2.jpg",
+        "charCount": 304
+      },
+      "pinterest": {
+        "title": "Citrus & lemonade energy drinks newly listed",
+        "description": "Bright citrus and lemonade flavors from the catch-up list. Featured: Rip It Power Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime, Accelerator Cherry Limeade. Added to the Energy Drink Ratings catalog between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "altText": "Poster: Citrus & lemonade \u2014 four cans (Rip It Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime, Accelerator Cherry Limeade) on bright lemon-lime splash background for Energy Drink Ratings",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-pinterest-1000x1500-v2.jpg"
+      }
+    },
+    {
+      "id": "05-tropical-fruit",
+      "title": "Tropical fruit",
+      "hook": "Tropical and fruit-forward additions from the catch-up list",
+      "rationale": "Tropical/fruit-forward cluster with strong can color contrast.",
+      "drinks": [
+        {
+          "name": "SpaceTime Orange Mango",
+          "brand": "Space Time Energy",
+          "slug": "spacetime-orange-mango",
+          "datePublished": "2026-10-24"
+        },
+        {
+          "name": "LIFEAID FITAID Energy Tropical Breeze",
+          "brand": "LIFEAID",
+          "slug": "lifeaid-fitaid-energy-tropical-breeze",
+          "datePublished": "2026-11-05"
+        },
+        {
+          "name": "Xrave Mood Energy Tropical Bliss",
+          "brand": "X mood drinks",
+          "slug": "xrave-mood-energy-tropical-bliss",
+          "datePublished": "2026-10-26"
+        },
+        {
+          "name": "El Jefe Baja Orange",
+          "brand": "El Jefe Energy",
+          "slug": "el-jefe-baja-orange",
+          "datePublished": "2026-10-25"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg",
+        "squareCrop": "graphics/05-tropical-fruit-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Tropical fruit.\n\nWe added these to the Energy Drink Ratings catalog, including SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze, Xrave Mood Energy Tropical Bliss.\n\nWhich have you tried\u2014and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Tropical fruit \u2014 added to our catalog Oct 23\u2013Nov 6.\nIncluding SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze.\nWhich would you try next?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-square-1000.jpg",
+        "charCount": 310
+      },
+      "pinterest": {
+        "title": "Tropical fruit energy drinks newly added to EDR",
+        "description": "Tropical and fruit-forward additions from the catch-up list. Featured: SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze, Xrave Mood Energy Tropical Bliss, El Jefe Baja Orange. Added to the Energy Drink Ratings catalog between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "altText": "Poster: Tropical fruit \u2014 four cans (SpaceTime Orange Mango, LIFEAID FITAID Tropical Breeze, Xrave Tropical Bliss, El Jefe Baja Orange) on tropical sunset beach background for Energy Drink Ratings",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg"
+      }
+    }
+  ]
+}

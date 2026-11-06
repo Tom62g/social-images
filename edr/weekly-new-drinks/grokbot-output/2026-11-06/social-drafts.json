@@ -1,0 +1,493 @@
+{
+  "status": "PREPARED FOR REVIEW — not published, not scheduled",
+  "designVersion": "v4-scene-composite-manual-outline",
+  "kitPurpose": "Catch-up review kit with five themed scene composites for human review before any posting",
+  "sourceCommit": "fd89ef3d8a364b87a4cb60a842b7e55b721688e9",
+  "runDate": "2026-11-06",
+  "count": 58,
+  "dateBasis": "day the drink was added to the catalog (catch-up run; publish day can be later)",
+  "rawManifestUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/new-drinks.json",
+  "newPageUrl": "https://energydrinkratings.com/new",
+  "pinterestBoard": "Energy Drinks",
+  "utmCampaign": "edr_catalog_additions_2026_11_06",
+  "doNotAutoPost": true,
+  "contactSheet": "graphics/contact-sheet-FINAL-2026-11-06.jpg",
+  "cutoutMethod": "Hand-set per-can outlines on verified Claude source product JPGs (source RGB only, edge inset 1.5-2 px, floor shadows trimmed); El Jefe cans reuse prior matte with 1 px edge choke; no generative packaging",
+  "batches": [
+    {
+      "id": "01-winter-dessert",
+      "title": "Winter & dessert vibes",
+      "headlineOnImage": "Which winter flavor are you curious about?",
+      "designVersion": "v4-scene-composite-manual-outline",
+      "drinks": [
+        {
+          "name": "Red Bull The Winter Edition, Pistachio & Berries",
+          "brand": "Red Bull",
+          "slug": "red-bull-the-winter-edition-pistachio-berries",
+          "datePublished": "2026-11-01",
+          "facts": {
+            "caffeineMg": 80,
+            "sugarG": 26,
+            "calories": 110,
+            "servingSizeFlOz": 8.4,
+            "sugarFree": false,
+            "carbonated": false
+          },
+          "whatsNew": "New Red Bull flavor; the site now lists 28 Red Bull drinks. 80 mg caffeine per 8.4 fl oz, 26 g sugar, 110 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/red-bull-the-winter-edition-pistachio-berries"
+        },
+        {
+          "name": "Celsius Spritz Vibe Sparkling Shirley Temple",
+          "brand": "Celsius",
+          "slug": "celsius-spritz-vibe-sparkling-shirley-temple",
+          "datePublished": "2026-11-01",
+          "facts": {
+            "caffeineMg": 200,
+            "sugarG": 0,
+            "calories": 15,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New Celsius flavor; the site now lists 54 Celsius drinks. 200 mg caffeine per 12 fl oz, zero sugar, 15 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/celsius-spritz-vibe-sparkling-shirley-temple"
+        },
+        {
+          "name": "Monster Energy Vanilla Shot",
+          "brand": "Monster Energy",
+          "slug": "monster-energy-vanilla-shot",
+          "datePublished": "2026-11-01",
+          "facts": {
+            "caffeineMg": 160,
+            "sugarG": 53,
+            "calories": 220,
+            "servingSizeFlOz": 16,
+            "sugarFree": false,
+            "carbonated": false
+          },
+          "whatsNew": "New Monster Energy flavor; the site now lists 63 Monster Energy drinks. 160 mg caffeine per 16 fl oz, 53 g sugar, 220 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/monster-energy-vanilla-shot"
+        },
+        {
+          "name": "Sparkling Candy Apple",
+          "brand": "Gorgie",
+          "slug": "sparkling-candy-apple",
+          "datePublished": "2026-10-31",
+          "facts": {
+            "caffeineMg": 150,
+            "sugarG": 0,
+            "calories": 5,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New Gorgie flavor; the site now lists 13 Gorgie drinks. 150 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/sparkling-candy-apple"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/01-winter-dessert-pinterest-1000x1500.jpg",
+        "squareDedicated": "graphics/01-winter-dessert-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Winter & dessert vibes.\n\nWe added these to the Energy Drink Ratings catalog, including Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple, Monster Energy Vanilla Shot.\n\nWhich have you tried—and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Which winter flavor are you curious about? — added to our catalog Oct 23–Nov 6.\nIncluding Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple.\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-square-1000.jpg",
+        "charCount": 345
+      },
+      "pinterest": {
+        "title": "Which winter energy drink flavor are you curious about?",
+        "description": "Which winter flavor are you curious about? Featured from recent Energy Drink Ratings catalog additions: Red Bull The Winter Edition, Pistachio & Berries, Celsius Spritz Vibe Sparkling Shirley Temple, Monster Energy Vanilla Shot, Sparkling Candy Apple. Added between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "altText": "Winter scene with four energy drink cans (Red Bull Winter Edition Pistachio & Berries, Celsius Shirley Temple, Monster Vanilla Shot, Gorgie Sparkling Candy Apple); headline asks which winter flavor you are curious about",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=01-winter-dessert",
+        "image": "graphics/01-winter-dessert-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "02-new-brands",
+      "title": "Fresh faces in the catalog",
+      "headlineOnImage": "Which new face would you try first?",
+      "designVersion": "v4-scene-composite-manual-outline",
+      "drinks": [
+        {
+          "name": "Angry Angel Fuel Peach Ginger",
+          "brand": "Angry Angel",
+          "slug": "angry-angel-fuel-peach-ginger",
+          "datePublished": "2026-10-28",
+          "facts": {
+            "caffeineMg": 120,
+            "sugarG": 0,
+            "calories": 0,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New brand on the site: Angry Angel (5 flavors added in this update). 120 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/angry-angel-fuel-peach-ginger"
+        },
+        {
+          "name": "Hawk Energy Ultra Lightning Lemonade",
+          "brand": "Hawk Energy",
+          "slug": "hawk-energy-ultra-lightning-lemonade",
+          "datePublished": "2026-10-27",
+          "facts": {
+            "caffeineMg": 300,
+            "sugarG": 1,
+            "calories": 60,
+            "servingSizeFlOz": 16,
+            "sugarFree": false,
+            "carbonated": true
+          },
+          "whatsNew": "New brand on the site: Hawk Energy (2 flavors added in this update). 300 mg caffeine per 16 fl oz, 1 g sugar, 60 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/hawk-energy-ultra-lightning-lemonade"
+        },
+        {
+          "name": "Be Love Lemonade Lift",
+          "brand": "Love energy",
+          "slug": "be-love-lemonade-lift",
+          "datePublished": "2026-10-26",
+          "facts": {
+            "caffeineMg": 80,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New brand on the site: Love energy (7 flavors added in this update). 80 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/be-love-lemonade-lift"
+        },
+        {
+          "name": "Gym Soda Rainbow Sherbet",
+          "brand": "GYM Soda",
+          "slug": "gym-soda-rainbow-sherbet",
+          "datePublished": "2026-10-24",
+          "facts": {
+            "caffeineMg": 114,
+            "sugarG": 3,
+            "calories": 25,
+            "servingSizeFlOz": 12,
+            "sugarFree": false,
+            "carbonated": true
+          },
+          "whatsNew": "First GYM Soda drink on the site. 114 mg caffeine per 12 fl oz, 3 g sugar, 25 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/gym-soda-rainbow-sherbet"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/02-new-brands-pinterest-1000x1500.jpg",
+        "squareDedicated": "graphics/02-new-brands-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Fresh faces in the catalog.\n\nWe added these to the Energy Drink Ratings catalog, including Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade, Be Love Lemonade Lift.\n\nWhich have you tried—and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Which new face would you try first? — added to our catalog Oct 23–Nov 6.\nIncluding Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade.\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-square-1000.jpg",
+        "charCount": 307
+      },
+      "pinterest": {
+        "title": "Which new energy drink face would you try first?",
+        "description": "Which new face would you try first? Featured from recent Energy Drink Ratings catalog additions: Angry Angel Fuel Peach Ginger, Hawk Energy Ultra Lightning Lemonade, Be Love Lemonade Lift, Gym Soda Rainbow Sherbet. Added between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "altText": "Dark teal scene with four energy drink cans (Angry Angel Peach Ginger, Hawk Lightning Lemonade, Be Love Lemonade Lift, Gym Soda Rainbow Sherbet); headline asks which new face you would try first",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=02-new-brands",
+        "image": "graphics/02-new-brands-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "03-zero-sugar",
+      "title": "Zero-sugar catalog adds",
+      "headlineOnImage": "Which zero-sugar pick are you eyeing?",
+      "designVersion": "v4-scene-composite-manual-outline",
+      "drinks": [
+        {
+          "name": "LIFEAID FocusAid Zero Sugar Kiwi Strawberry",
+          "brand": "LIFEAID",
+          "slug": "lifeaid-focusaid-zero-sugar-kiwi-strawberry",
+          "datePublished": "2026-11-05",
+          "facts": {
+            "caffeineMg": 100,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New LIFEAID flavor; the site now lists 10 LIFEAID drinks. 100 mg caffeine per 12 fl oz, zero sugar, 10 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/lifeaid-focusaid-zero-sugar-kiwi-strawberry"
+        },
+        {
+          "name": "Monster Energy Zero Sugar Vanilla Shot",
+          "brand": "Monster Energy",
+          "slug": "monster-energy-zero-sugar-vanilla-shot",
+          "datePublished": "2026-11-01",
+          "facts": {
+            "caffeineMg": 160,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 16,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New Monster Energy flavor; the site now lists 63 Monster Energy drinks. 160 mg caffeine per 16 fl oz, zero sugar, 10 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/monster-energy-zero-sugar-vanilla-shot"
+        },
+        {
+          "name": "Red Bull The Winter Edition Sugarfree, Pistachio & Berries",
+          "brand": "Red Bull",
+          "slug": "red-bull-the-winter-edition-sugarfree-pistachio-berries",
+          "datePublished": "2026-11-01",
+          "facts": {
+            "caffeineMg": 80,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 8.4,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New Red Bull flavor; the site now lists 28 Red Bull drinks. 80 mg caffeine per 8.4 fl oz, zero sugar, 10 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/red-bull-the-winter-edition-sugarfree-pistachio-berries"
+        },
+        {
+          "name": "Hiball Energy Watermelon Mint",
+          "brand": "Hi ball energy",
+          "slug": "hiball-energy-watermelon-mint",
+          "datePublished": "2026-10-25",
+          "facts": {
+            "caffeineMg": 160,
+            "sugarG": 0,
+            "calories": 0,
+            "servingSizeFlOz": 16,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New brand on the site: Hi ball energy (6 flavors added in this update). 160 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/hiball-energy-watermelon-mint"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/03-zero-sugar-pinterest-1000x1500.jpg",
+        "squareDedicated": "graphics/03-zero-sugar-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Zero-sugar catalog adds.\n\nWe added these to the Energy Drink Ratings catalog, including LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot, Red Bull The Winter Edition Sugarfree, Pistachio & Berries.\n\nWhich have you tried—and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Which zero-sugar pick are you eyeing? — added to our catalog Oct 23–Nov 6.\nIncluding LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot.\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-square-1000.jpg",
+        "charCount": 325
+      },
+      "pinterest": {
+        "title": "Which zero-sugar energy drink are you eyeing?",
+        "description": "Which zero-sugar pick are you eyeing? Featured from recent Energy Drink Ratings catalog additions: LIFEAID FocusAid Zero Sugar Kiwi Strawberry, Monster Energy Zero Sugar Vanilla Shot, Red Bull The Winter Edition Sugarfree, Pistachio & Berries, Hiball Energy Watermelon Mint. Added between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "altText": "Light ice-blue scene with four zero-sugar cans (LIFEAID FocusAid Kiwi Strawberry, Monster Zero Sugar Vanilla Shot, Red Bull Winter Sugarfree, Hiball Watermelon Mint)",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=03-zero-sugar",
+        "image": "graphics/03-zero-sugar-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "04-citrus-lemonade",
+      "title": "Citrus & lemonade",
+      "headlineOnImage": "Which citrus flavor would you try?",
+      "designVersion": "v4-scene-composite-manual-outline",
+      "drinks": [
+        {
+          "name": "Rip It Power Sharp Citrus",
+          "brand": "Rip It Energy",
+          "slug": "rip-it-power-sharp-citrus",
+          "datePublished": "2026-10-23",
+          "facts": {
+            "caffeineMg": 160,
+            "sugarG": 48,
+            "calories": 200,
+            "servingSizeFlOz": 16,
+            "sugarFree": false,
+            "carbonated": true
+          },
+          "whatsNew": "New Rip It Energy flavor; the site now lists 11 Rip It Energy drinks. 160 mg caffeine per 16 fl oz, 48 g sugar, 200 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/rip-it-power-sharp-citrus"
+        },
+        {
+          "name": "El Jefe Phantom Lemonade",
+          "brand": "El Jefe Energy",
+          "slug": "el-jefe-phantom-lemonade",
+          "datePublished": "2026-10-25",
+          "facts": {
+            "caffeineMg": 150,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 16,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New El Jefe Energy flavor; the site now lists 8 El Jefe Energy drinks. 150 mg caffeine per 16 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/el-jefe-phantom-lemonade"
+        },
+        {
+          "name": "Yesly Lime",
+          "brand": "Yesly",
+          "slug": "yesly-lime",
+          "datePublished": "2026-10-23",
+          "facts": {
+            "caffeineMg": 114,
+            "sugarG": 0,
+            "calories": 15,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New Yesly flavor; the site now lists 5 Yesly drinks. 114 mg caffeine per 12 fl oz, zero sugar, 15 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/yesly-lime"
+        },
+        {
+          "name": "Accelerator Cherry Limeade",
+          "brand": "Accelerator",
+          "slug": "accelerator-cherry-limeade",
+          "datePublished": "2026-10-23",
+          "facts": {
+            "caffeineMg": 200,
+            "sugarG": 0,
+            "calories": 5,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New Accelerator flavor; the site now lists 7 Accelerator drinks. 200 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/accelerator-cherry-limeade"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/04-citrus-lemonade-pinterest-1000x1500.jpg",
+        "squareDedicated": "graphics/04-citrus-lemonade-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Citrus & lemonade.\n\nWe added these to the Energy Drink Ratings catalog, including Rip It Power Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime.\n\nWhich have you tried—and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Which citrus flavor would you try? — added to our catalog Oct 23–Nov 6.\nIncluding Rip It Power Sharp Citrus, El Jefe Phantom Lemonade.\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-square-1000.jpg",
+        "charCount": 295
+      },
+      "pinterest": {
+        "title": "Which citrus energy drink flavor would you try?",
+        "description": "Which citrus flavor would you try? Featured from recent Energy Drink Ratings catalog additions: Rip It Power Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime, Accelerator Cherry Limeade. Added between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "altText": "Lemon-lime splash scene with four cans (Rip It Sharp Citrus, El Jefe Phantom Lemonade, Yesly Lime, Accelerator Cherry Limeade); headline asks which citrus flavor you would try",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade",
+        "image": "graphics/04-citrus-lemonade-pinterest-1000x1500.jpg"
+      }
+    },
+    {
+      "id": "05-tropical-fruit",
+      "title": "Tropical fruit",
+      "headlineOnImage": "Which tropical can are you reaching for?",
+      "designVersion": "v4-scene-composite-manual-outline",
+      "drinks": [
+        {
+          "name": "SpaceTime Orange Mango",
+          "brand": "Space Time Energy",
+          "slug": "spacetime-orange-mango",
+          "datePublished": "2026-10-24",
+          "facts": {
+            "caffeineMg": 50,
+            "sugarG": 2,
+            "calories": 20,
+            "servingSizeFlOz": 12,
+            "sugarFree": false,
+            "carbonated": true
+          },
+          "whatsNew": "First Space Time Energy drink on the site. 50 mg caffeine per 12 fl oz, 2 g sugar, 20 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/spacetime-orange-mango"
+        },
+        {
+          "name": "LIFEAID FITAID Energy Tropical Breeze",
+          "brand": "LIFEAID",
+          "slug": "lifeaid-fitaid-energy-tropical-breeze",
+          "datePublished": "2026-11-05",
+          "facts": {
+            "caffeineMg": 150,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": false
+          },
+          "whatsNew": "New LIFEAID flavor; the site now lists 10 LIFEAID drinks. 150 mg caffeine per 12 fl oz, zero sugar, 10 calories (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/lifeaid-fitaid-energy-tropical-breeze"
+        },
+        {
+          "name": "Xrave Mood Energy Tropical Bliss",
+          "brand": "X mood drinks",
+          "slug": "xrave-mood-energy-tropical-bliss",
+          "datePublished": "2026-10-26",
+          "facts": {
+            "caffeineMg": 225,
+            "sugarG": 0,
+            "calories": 0,
+            "servingSizeFlOz": 12,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New brand on the site: X mood drinks (3 flavors added in this update). 225 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-tropical-bliss"
+        },
+        {
+          "name": "El Jefe Baja Orange",
+          "brand": "El Jefe Energy",
+          "slug": "el-jefe-baja-orange",
+          "datePublished": "2026-10-25",
+          "facts": {
+            "caffeineMg": 150,
+            "sugarG": 0,
+            "calories": 10,
+            "servingSizeFlOz": 16,
+            "sugarFree": true,
+            "carbonated": true
+          },
+          "whatsNew": "New El Jefe Energy flavor; the site now lists 8 El Jefe Energy drinks. 150 mg caffeine per 16 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+          "pageUrl": "https://energydrinkratings.com/drinks/el-jefe-baja-orange"
+        }
+      ],
+      "graphics": {
+        "pinterestMaster": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg",
+        "squareDedicated": "graphics/05-tropical-fruit-square-1000.jpg"
+      },
+      "facebook": {
+        "caption": "Tropical fruit.\n\nWe added these to the Energy Drink Ratings catalog, including SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze, Xrave Mood Energy Tropical Bliss.\n\nWhich have you tried—and which would you try next?\nExplore recent additions and leave your rating:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit\n\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg"
+      },
+      "threads": {
+        "caption": "Which tropical can are you reaching for? — added to our catalog Oct 23–Nov 6.\nIncluding SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze.\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit\nFor adults.",
+        "link": "https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-square-1000.jpg",
+        "charCount": 310
+      },
+      "pinterest": {
+        "title": "Which tropical energy drink are you reaching for?",
+        "description": "Which tropical can are you reaching for? Featured from recent Energy Drink Ratings catalog additions: SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze, Xrave Mood Energy Tropical Bliss, El Jefe Baja Orange. Added between Oct 23 and Nov 6, 2026. Explore recent additions and leave your rating. For adults. https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "altText": "Sunset beach scene with four cans (SpaceTime Orange Mango, LIFEAID FITAID Tropical Breeze, Xrave Tropical Bliss, El Jefe Baja Orange)",
+        "boardSuggestion": "Energy Drinks",
+        "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit",
+        "image": "graphics/05-tropical-fruit-pinterest-1000x1500.jpg"
+      }
+    }
+  ]
+}

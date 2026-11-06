@@ -1,23 +1,23 @@
-# EDR catch-up review kit — five themed graphics (v3 redesign)
+# EDR catch-up review kit — five themed graphics (v4 scene composites, final review)
 
 **Prepared for review.** Not published. Not scheduled.
 
-Catch-up series from the Oct 23–Nov 6 catalog-add batch (58 drinks total). Each graphic features 4 verified drinks in a themed scene — not an equal split of all 58, and not a claim that `/new` shows only these.
+Catch-up series from the Oct 23–Nov 6 catalog-add batch (58 drinks total). Each graphic features 4 verified drinks in a themed scene — not an equal split of all 58.
 
-## Design notes (v3)
+## Design notes
 - No white product cards / boxed fact grids
 - Real can packaging composited into cohesive scene backgrounds with natural shadows
 - Short curiosity headlines on-image; caffeine/sugar facts live in captions/metadata only
-- Pinterest 1000×1500 masters + **dedicated** square layouts (title, EDR brand, CTA/URL retained — not center-crops)
-- Prior card-grid versions archived under `source/archive-card-grid-v1-v2/`
+- Pinterest 1000×1500 masters + dedicated square layouts (title, EDR brand, CTA/URL retained)
+- Can cutouts traced by hand-set per-can outlines (row-by-row can edges, 1.5–2 px inset, elliptical base trims) on Claude’s verified source product photos; original photo pixels only, no generative packaging
 
 ## Source
-- Repo context: `Tom62g/social-images` @ `main` (Claude catch-up commit `fd89ef3d8a364b87a4cb60a842b7e55b721688e9`)
+- Claude catch-up commit `fd89ef3d8a364b87a4cb60a842b7e55b721688e9` on `Tom62g/social-images`
 - Manifest: https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/new-drinks.json
 - runDate `2026-11-06` · count `58`
 - dateBasis: day the drink was added to the catalog (catch-up run; publish day can be later)
-- Pinterest board suggestion: **Energy Drinks** (existing Michele / michgarg2 board)
-- Contact sheet: `graphics/contact-sheet-5-pinterest-v3.jpg`
+- Pinterest board suggestion: **Energy Drinks**
+- Contact sheet: `graphics/contact-sheet-FINAL-2026-11-06.jpg`
 
 ## 1. Winter & dessert vibes (`01-winter-dessert`)
 

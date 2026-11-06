@@ -1,7 +1,7 @@
 ENERGY DRINK RATINGS - CONNECTOR LAUNCH POSTS (ChatGPT plugin + Claude connector)
 Drafted 2026-11-06.
 
-STATUS: HOLD. Do NOT post anything in this folder until Tom changes this line to "STATUS: GO". (He will tell you.)
+STATUS: GO (released by Tom 2026-11-06). Post as described under "Suggested order"; each platform once.
 
 WHAT HAPPENED: Energy Drink Ratings is now a free, read-only plugin in ChatGPT (published 2026-11-06) and a community connector in Claude's directory. Both let people ask about caffeine, sugar and ratings and link back to the drink page.
 LINKS:

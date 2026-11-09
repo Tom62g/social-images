@@ -1,0 +1,32 @@
+id,post_at_et,text,image,notes
+grok-2026-11-09-01,2026-11-10 12:20,"Which citrus flavor would you try? — added to our catalog Oct 23–Nov 6.
+Including Rip It Power Sharp Citrus, El Jefe Phantom Lemonade.
+https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=04-citrus-lemonade
+For adults.",edr/threads/images/threads-citrus-pair-2026-11-10.jpg,"Supersedes original row id grok-2026-11-08-02 from batch-2026-11-08.csv — approve this version and skip the old one. Carry-forward of the planned Nov 10 Threads caption from the approved-five series (edr-catchup-2026-11-06-04-citrus-lemonade), now with matching square graphic. Named drinks re-verified live on https://energydrinkratings.com/new as of 2026-11-09: Rip It Power Sharp Citrus; El Jefe Phantom Lemonade. Addition window Oct 23–Nov 6 from weekly new-drinks manifest runDate 2026-11-06. No numerical label claims in the post. Image: 1080x1080 pair on main showing those two cans (also available as 4-can square at edr/weekly-new-drinks/grokbot-output/2026-11-06/graphics/04-citrus-lemonade-square-1000.jpg)."
+grok-2026-11-09-02,2026-11-11 11:05,"Which tropical can are you reaching for? — added to our catalog Oct 23–Nov 6.
+Including SpaceTime Orange Mango, LIFEAID FITAID Energy Tropical Breeze.
+https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_06&utm_content=05-tropical-fruit
+For adults.",edr/threads/images/threads-tropical-pair-2026-11-11.jpg,"Supersedes original row id grok-2026-11-08-03 from batch-2026-11-08.csv — approve this version and skip the old one. Carry-forward of the planned Nov 11 Threads caption from the approved-five series (edr-catchup-2026-11-06-05-tropical-fruit), now with matching square graphic. Named drinks re-verified live on https://energydrinkratings.com/new as of 2026-11-09: SpaceTime Orange Mango; LIFEAID FITAID Energy Tropical Breeze. Addition window Oct 23–Nov 6 from weekly new-drinks manifest runDate 2026-11-06. No numerical label claims in the post. Image: 1080x1080 pair on main showing those two cans (also available as 4-can square at edr/weekly-new-drinks/grokbot-output/2026-11-06/graphics/05-tropical-fruit-square-1000.jpg)."
+grok-2026-11-09-03,2026-11-12 13:40,"Tried Red Bull The Winter Edition, Pistachio & Berries yet?
+
+On our page it's still unrated — 80mg caffeine and 26g sugar per 8.4oz can from the label. Be the first to rate it and claim First Sip.
+
+https://energydrinkratings.com/drinks/red-bull-the-winter-edition-pistachio-berries?utm_source=threads&utm_medium=social&utm_campaign=edr_winter_pistachio_2026_11&utm_content=first_rating
+
+For adults.",edr/threads/images/threads-red-bull-winter-pistachio-square-2026-11-12.jpg,"Supersedes original row id grok-2026-11-08-04 from batch-2026-11-08.csv — approve this version and skip the old one. Live-reverified 2026-11-09 on https://energydrinkratings.com/drinks/red-bull-the-winter-edition-pistachio-berries: 80 mg caffeine, 26 g sugar, 8.4 fl oz can, 0 ratings (page still says nobody has rated this yet / First Sip). Also listed on https://energydrinkratings.com/new as of 2026-11-09 (Week of Oct 26). Image: 1080x1080 single-can square on main of Red Bull The Winter Edition, Pistachio & Berries (matches caption; preferred over 4-can winter-dessert square which also shows other drinks)."
+grok-2026-11-09-04,2026-11-13 10:15,"Energy Drink Ratings now catalogues 1,098 drinks. 79.1% are sugar-free, and the median caffeine listed is 200 mg per serving. 368 drinks — 33.5% of the catalog — contain exactly 200 mg.
+
+https://energydrinkratings.com/state-of-energy-drinks?utm_source=threads&utm_medium=social&utm_campaign=edr_state_of_energy_drinks",,"Supersedes original row id grok-2026-11-08-05 from batch-2026-11-08.csv — approve this version and skip the old one. Catalog composition figures live-reverified 2026-11-09 on https://energydrinkratings.com/state-of-energy-drinks: 1,098 drinks catalogued; 79.1% sugar-free; median caffeine 200 mg per serving; 368 drinks (33.5%) contain exactly 200 mg. Why: weekly mix item for caffeine/label facts from the State of Energy Drinks report. No health claims. Image left empty: nothing on main truly matches this catalog-stats topic (catch-up graphics and edr/threads/images/ are drink cans / pairs; connectors-announcement is unrelated)."
+grok-2026-11-09-05,2026-11-14 14:50,"FitTea Energy Strawberry Acai is on our recent-additions list and still unrated. The label lists 200 mg caffeine, 0 g sugar and 0 calories per 12 fl oz can.
+
+Be the first to rate it and claim First Sip.
+
+https://energydrinkratings.com/drinks/fittea-energy-strawberry-acai?utm_source=threads&utm_medium=social&utm_campaign=edr_fittea_strawberry_acai&utm_content=first_rating
+
+For adults.",edr/threads/images/threads-fittea-strawberry-acai-square-2026-11-14.jpg,"Supersedes original row id grok-2026-11-08-06 from batch-2026-11-08.csv — approve this version and skip the old one. Live-reverified 2026-11-09 on https://energydrinkratings.com/drinks/fittea-energy-strawberry-acai: 200 mg caffeine, 0 g sugar, 0 calories, 12 fl oz can, 0 ratings (First Sip). Also listed on https://energydrinkratings.com/new as of 2026-11-09 under Week of Nov 2. Image: 1080x1080 single-can square on main of FitTea Energy Strawberry Acai (matches caption)."
+grok-2026-11-09-06,2026-11-15 09:35,"When you pick up an energy drink, what do you check first on the label: caffeine, sugar, or flavor?
+
+Browse recent additions and leave a rating:
+https://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_label_check_question
+
+For adults.",,"Supersedes original row id grok-2026-11-08-07 from batch-2026-11-08.csv — approve this version and skip the old one. Plain reader question (under the 1-in-5 cap). No numerical claims. Destination https://energydrinkratings.com/new as of 2026-11-09. Image left empty: nothing on main truly matches a generic label-check question (no force-fit of drink-can graphics or the connectors announcement)."

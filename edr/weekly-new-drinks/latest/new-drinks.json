@@ -1,10 +1,10 @@
 {
   "status": "new-drinks",
-  "generatedAt": "2026-11-08T22:21:38.303Z",
-  "runDate": "2026-11-08",
-  "weekLabel": "Nov 6 to Nov 8",
-  "windowStart": "2026-11-06",
-  "count": 5,
+  "generatedAt": "2026-11-15T18:18:30.868Z",
+  "runDate": "2026-11-15",
+  "weekLabel": "Nov 8 to Nov 15",
+  "windowStart": "2026-11-08",
+  "count": 29,
   "dateBasis": "last update of the page when first seen live (approximate to the day)",
   "site": "https://energydrinkratings.com",
   "newPageUrl": "https://energydrinkratings.com/new",
@@ -14,17 +14,99 @@
   "note": "Facts are label values from EnergyDrinkRatings. Quote caffeine and sugar as labeled, attribute to EnergyDrinkRatings, and do not call any caffeine amount safe for a particular person. datePublished is the day the drink went live for visitors (approximate to the day: the site keeps no separate publish timestamp); liveDetectedOn is the run that first saw it live.",
   "drinks": [
     {
-      "name": "FitTea Energy Strawberry Acai",
-      "brand": "FitTea",
-      "slug": "fittea-energy-strawberry-acai",
-      "datePublished": "2026-11-06",
-      "liveDetectedOn": "2026-11-08",
-      "pageUrl": "https://energydrinkratings.com/drinks/fittea-energy-strawberry-acai",
-      "trackedUrl": "https://energydrinkratings.com/drinks/fittea-energy-strawberry-acai?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-08&utm_content=fittea-energy-strawberry-acai",
-      "imageFile": "images/fittea-energy-strawberry-acai.jpg",
-      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/fittea-energy-strawberry-acai.jpg",
-      "imageUrl": "https://energydrinkratings.com/images/curated/729dd249-20d8-448b-a0cc-be5ad8bc657a-front-single-2026-11-06.jpg",
-      "whatsNew": "New FitTea flavor; the site now lists 2 FitTea drinks. 200 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "name": "Kong Strong Sugar Free",
+      "brand": "Kong Strong",
+      "slug": "kong-strong-sugar-free",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/kong-strong-sugar-free",
+      "trackedUrl": "https://energydrinkratings.com/drinks/kong-strong-sugar-free?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=kong-strong-sugar-free",
+      "imageFile": "images/kong-strong-sugar-free.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/kong-strong-sugar-free.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/88328d31-56f1-4e0f-a21e-664255162297-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Kong Strong (3 flavors added in this update). 80 mg caffeine per 8.45 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "80 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 80,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 8.45,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Kong Strong Classic",
+      "brand": "Kong Strong",
+      "slug": "kong-strong-classic",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/kong-strong-classic",
+      "trackedUrl": "https://energydrinkratings.com/drinks/kong-strong-classic?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=kong-strong-classic",
+      "imageFile": "images/kong-strong-classic.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/kong-strong-classic.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/0e678f7e-8726-4100-b891-411c4f8606cf-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Kong Strong (3 flavors added in this update). 160 mg caffeine per 16.9 fl oz, 45 g sugar, 190 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "160 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 45,
+        "calories": 190,
+        "servingSizeFlOz": 16.9,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Kong Strong Mega Wild Power",
+      "brand": "Kong Strong",
+      "slug": "kong-strong-mega-wild-power",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/kong-strong-mega-wild-power",
+      "trackedUrl": "https://energydrinkratings.com/drinks/kong-strong-mega-wild-power?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=kong-strong-mega-wild-power",
+      "imageFile": "images/kong-strong-mega-wild-power.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/kong-strong-mega-wild-power.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/0fa4deb1-fe06-4434-88fd-c79dff70517e-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Kong Strong (3 flavors added in this update). 140 mg caffeine per 16 fl oz, 64 g sugar, 270 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "140 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 140,
+        "sugarG": 64,
+        "calories": 270,
+        "servingSizeFlOz": 16,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "ABE Energy Sour Patch Kids Redberry",
+      "brand": "ABE Energy",
+      "slug": "abe-energy-sour-patch-kids-redberry",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/abe-energy-sour-patch-kids-redberry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/abe-energy-sour-patch-kids-redberry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=abe-energy-sour-patch-kids-redberry",
+      "imageFile": "images/abe-energy-sour-patch-kids-redberry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/abe-energy-sour-patch-kids-redberry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/f664f6bf-33e5-4905-b72c-6f3864092589-front-single-2026-11-13.jpg",
+      "whatsNew": "New ABE Energy flavor; the site now lists 10 ABE Energy drinks. 200 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
       "tags": [
         "200 mg caffeine",
         "zero sugar",
@@ -41,44 +123,156 @@
       "ratingCount": 0
     },
     {
-      "name": "Wild Power Mango and Passion Fruit",
-      "brand": "Wild Power Energy",
-      "slug": "wild-power-mango-and-passion-fruit",
-      "datePublished": "2026-11-06",
-      "liveDetectedOn": "2026-11-08",
-      "pageUrl": "https://energydrinkratings.com/drinks/wild-power-mango-and-passion-fruit",
-      "trackedUrl": "https://energydrinkratings.com/drinks/wild-power-mango-and-passion-fruit?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-08&utm_content=wild-power-mango-and-passion-fruit",
-      "imageFile": "images/wild-power-mango-and-passion-fruit.jpg",
-      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/wild-power-mango-and-passion-fruit.jpg",
-      "imageUrl": "https://energydrinkratings.com/images/curated/818e8f61-b389-4456-aac3-44639b0deb40-label-2026-11-06.jpg",
-      "whatsNew": "First Wild Power Energy drink on the site. 75 mg caffeine per 8.4 fl oz, 11.25 g sugar, 47.5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "name": "Cadence Race 500 Peach",
+      "brand": "Cadence",
+      "slug": "cadence-race-500-peach",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/cadence-race-500-peach",
+      "trackedUrl": "https://energydrinkratings.com/drinks/cadence-race-500-peach?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=cadence-race-500-peach",
+      "imageFile": "images/cadence-race-500-peach.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/cadence-race-500-peach.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/a987fd39-3978-442a-9fe6-dc2ca36ffe9b-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Cadence (2 flavors added in this update). 120 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
       "tags": [
         "new brand",
-        "75 mg caffeine",
+        "120 mg caffeine",
+        "zero sugar",
         "carbonated"
       ],
       "facts": {
-        "caffeineMg": 75,
-        "sugarG": 11.25,
-        "calories": 47.5,
-        "servingSizeFlOz": 8.4,
-        "sugarFree": false,
+        "caffeineMg": 120,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
         "carbonated": true
       },
       "ratingCount": 0
     },
     {
-      "name": "Xrave Mood Energy Kiwi Lime",
+      "name": "Cadence Race 500 Cherry",
+      "brand": "Cadence",
+      "slug": "cadence-race-500-cherry",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/cadence-race-500-cherry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/cadence-race-500-cherry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=cadence-race-500-cherry",
+      "imageFile": "images/cadence-race-500-cherry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/cadence-race-500-cherry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/264fd6e2-0f6a-4721-ad8f-c5f350dcf819-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Cadence (2 flavors added in this update). 120 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "120 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 120,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Melting Forest Black Cherry",
+      "brand": "Melting Forest",
+      "slug": "melting-forest-black-cherry",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/melting-forest-black-cherry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/melting-forest-black-cherry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=melting-forest-black-cherry",
+      "imageFile": "images/melting-forest-black-cherry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/melting-forest-black-cherry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/6ddc977b-4e6c-4a9a-acad-ffc907d31b67-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Melting Forest (2 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Melting Forest Mango Guava",
+      "brand": "Melting Forest",
+      "slug": "melting-forest-mango-guava",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/melting-forest-mango-guava",
+      "trackedUrl": "https://energydrinkratings.com/drinks/melting-forest-mango-guava?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=melting-forest-mango-guava",
+      "imageFile": "images/melting-forest-mango-guava.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/melting-forest-mango-guava.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/be4ffdda-ff35-4482-b726-a6f9cb5fac79-front-single-2026-11-13.jpg",
+      "whatsNew": "New brand on the site: Melting Forest (2 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Gorgie Protein Sparkling Strawberry Pop",
+      "brand": "Gorgie",
+      "slug": "gorgie-protein-sparkling-strawberry-pop",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/gorgie-protein-sparkling-strawberry-pop",
+      "trackedUrl": "https://energydrinkratings.com/drinks/gorgie-protein-sparkling-strawberry-pop?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=gorgie-protein-sparkling-strawberry-pop",
+      "imageFile": "images/gorgie-protein-sparkling-strawberry-pop.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/gorgie-protein-sparkling-strawberry-pop.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/d6d34997-eb1b-422f-a86b-9a8b2a7a53c7-front-2026-11-13.jpg",
+      "whatsNew": "New Gorgie flavor; the site now lists 15 Gorgie drinks. 150 mg caffeine per 12 fl oz, zero sugar, 40 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 40,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Xrave Mood Energy Blu Raz",
       "brand": "X mood drinks",
-      "slug": "rave-mood-kiwi-lime",
-      "datePublished": "2026-11-06",
-      "liveDetectedOn": "2026-11-08",
-      "pageUrl": "https://energydrinkratings.com/drinks/rave-mood-kiwi-lime",
-      "trackedUrl": "https://energydrinkratings.com/drinks/rave-mood-kiwi-lime?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-08&utm_content=rave-mood-kiwi-lime",
-      "imageFile": "images/rave-mood-kiwi-lime.jpg",
-      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rave-mood-kiwi-lime.jpg",
-      "imageUrl": "https://energydrinkratings.com/images/curated/7a9eb831-6f97-45ed-af74-80553ccd9ee5-front-single-2026-11-06.jpg",
-      "whatsNew": "New X mood drinks flavor; the site now lists 4 X mood drinks drinks. 225 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "slug": "xrave-mood-energy-blu-raz",
+      "datePublished": "2026-11-12",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-blu-raz",
+      "trackedUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-blu-raz?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=xrave-mood-energy-blu-raz",
+      "imageFile": "images/xrave-mood-energy-blu-raz.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/xrave-mood-energy-blu-raz.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/5c4ce84b-a17a-4f80-8ece-f88587c9e94f-front-single-2026-11-12.jpg",
+      "whatsNew": "New X mood drinks flavor; the site now lists 7 X mood drinks drinks. 225 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
       "tags": [
         "225 mg caffeine",
         "zero sugar",
@@ -95,17 +289,206 @@
       "ratingCount": 0
     },
     {
-      "name": "Gorilla Mind Silverback",
-      "brand": "Gorilla Mind",
-      "slug": "gorilla-mind-silverback",
-      "datePublished": "2026-11-07",
-      "liveDetectedOn": "2026-11-08",
-      "pageUrl": "https://energydrinkratings.com/drinks/gorilla-mind-silverback",
-      "trackedUrl": "https://energydrinkratings.com/drinks/gorilla-mind-silverback?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-08&utm_content=gorilla-mind-silverback",
-      "imageFile": "images/gorilla-mind-silverback.jpg",
-      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/gorilla-mind-silverback.jpg",
-      "imageUrl": "https://energydrinkratings.com/images/curated/413c0736-951c-4fd2-99f2-93f9ebd14116-front-2026-11-06.jpg",
-      "whatsNew": "New Gorilla Mind flavor; the site now lists 23 Gorilla Mind drinks. 200 mg caffeine per 16 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "name": "Xrave Mood Energy Mango Magic",
+      "brand": "X mood drinks",
+      "slug": "xrave-mood-energy-mango-magic",
+      "datePublished": "2026-11-12",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-mango-magic",
+      "trackedUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-mango-magic?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=xrave-mood-energy-mango-magic",
+      "imageFile": "images/xrave-mood-energy-mango-magic.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/xrave-mood-energy-mango-magic.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/27a2adf8-c819-4e0d-9dbb-bcec4f0b6c48-front-single-2026-11-12.jpg",
+      "whatsNew": "New X mood drinks flavor; the site now lists 7 X mood drinks drinks. 225 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "225 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 225,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Xrave Mood Energy Watermelon",
+      "brand": "X mood drinks",
+      "slug": "xrave-mood-energy-watermelon",
+      "datePublished": "2026-11-12",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-watermelon",
+      "trackedUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-watermelon?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=xrave-mood-energy-watermelon",
+      "imageFile": "images/xrave-mood-energy-watermelon.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/xrave-mood-energy-watermelon.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/ca9dccd1-ffe9-4bac-8ae4-cb6ffbb0a715-front-single-2026-11-12.jpg",
+      "whatsNew": "New X mood drinks flavor; the site now lists 7 X mood drinks drinks. 225 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "225 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 225,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Optimum Nutrition Amino Energy Hydration Berry Burst",
+      "brand": "Optimum Nutrition",
+      "slug": "optimum-nutrition-amino-energy-hydration-berry-burst",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/optimum-nutrition-amino-energy-hydration-berry-burst",
+      "trackedUrl": "https://energydrinkratings.com/drinks/optimum-nutrition-amino-energy-hydration-berry-burst?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=optimum-nutrition-amino-energy-hydration-berry-burst",
+      "imageFile": "images/optimum-nutrition-amino-energy-hydration-berry-burst.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/optimum-nutrition-amino-energy-hydration-berry-burst.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/96f01272-bba9-40aa-b5c9-7a49c2d5cc7f-front-single-2026-11-09.jpg",
+      "whatsNew": "New Optimum Nutrition flavor; the site now lists 3 Optimum Nutrition drinks. 100 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "100 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 100,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Alani Nu Lime Slush",
+      "brand": "Alani Nu",
+      "slug": "alani-nu-lime-slush",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/alani-nu-lime-slush",
+      "trackedUrl": "https://energydrinkratings.com/drinks/alani-nu-lime-slush?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=alani-nu-lime-slush",
+      "imageFile": "images/alani-nu-lime-slush.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/alani-nu-lime-slush.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/1f6e91e1-91c5-4fe3-aa02-6d06e2f3901b-front-single-2026-11-10.jpg",
+      "whatsNew": "New Alani Nu flavor; the site now lists 21 Alani Nu drinks. 200 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "200 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 200,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Optimum Nutrition Amino Energy Hydration Juicy Cherry",
+      "brand": "Optimum Nutrition",
+      "slug": "optimum-nutrition-amino-energy-hydration-juicy-cherry",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/optimum-nutrition-amino-energy-hydration-juicy-cherry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/optimum-nutrition-amino-energy-hydration-juicy-cherry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=optimum-nutrition-amino-energy-hydration-juicy-cherry",
+      "imageFile": "images/optimum-nutrition-amino-energy-hydration-juicy-cherry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/optimum-nutrition-amino-energy-hydration-juicy-cherry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/28c305f7-0f43-4b9d-a123-9574d6f06f03-front-single-2026-11-10.jpg",
+      "whatsNew": "New Optimum Nutrition flavor; the site now lists 3 Optimum Nutrition drinks. 100 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "100 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 100,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Gorgie Sparkling Shirley Splash",
+      "brand": "Gorgie",
+      "slug": "gorgie-sparkling-shirley-splash",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/gorgie-sparkling-shirley-splash",
+      "trackedUrl": "https://energydrinkratings.com/drinks/gorgie-sparkling-shirley-splash?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=gorgie-sparkling-shirley-splash",
+      "imageFile": "images/gorgie-sparkling-shirley-splash.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/gorgie-sparkling-shirley-splash.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/55c99b15-e6a4-4468-aa88-27cc9e2fef0f-front-single-2026-11-10.jpg",
+      "whatsNew": "New Gorgie flavor; the site now lists 15 Gorgie drinks. 150 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "ZOA Energy Holiday Punch",
+      "brand": "ZOA + Preworkout",
+      "slug": "zoa-energy-holiday-punch",
+      "datePublished": "2026-11-09",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/zoa-energy-holiday-punch",
+      "trackedUrl": "https://energydrinkratings.com/drinks/zoa-energy-holiday-punch?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=zoa-energy-holiday-punch",
+      "imageFile": "images/zoa-energy-holiday-punch.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/zoa-energy-holiday-punch.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/9d9e2c01-31f4-4872-bcc5-2105f1664d81-front-single-2026-11-09.jpg",
+      "whatsNew": "New ZOA + Preworkout flavor; the site now lists 16 ZOA + Preworkout drinks. 160 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "160 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "PRIME Dripsicle",
+      "brand": "PRIME Energy",
+      "slug": "prime-energy-dripsicle",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/prime-energy-dripsicle",
+      "trackedUrl": "https://energydrinkratings.com/drinks/prime-energy-dripsicle?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=prime-energy-dripsicle",
+      "imageFile": "images/prime-energy-dripsicle.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/prime-energy-dripsicle.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/0e78af5c-2cf8-4d00-8770-6b3760a1f5ee-front-single-2026-11-10.jpg",
+      "whatsNew": "New PRIME Energy flavor; the site now lists 12 PRIME Energy drinks. 200 mg caffeine per 16 fl oz, zero sugar, 10 calories, carbonated (label values). 1 rating so far.",
       "tags": [
         "200 mg caffeine",
         "zero sugar",
@@ -119,27 +502,302 @@
         "sugarFree": true,
         "carbonated": true
       },
+      "ratingCount": 1
+    },
+    {
+      "name": "Grizzly Mountain Buzz",
+      "brand": "Grizzly",
+      "slug": "grizzly-mountain-buzz",
+      "datePublished": "2026-11-11",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/grizzly-mountain-buzz",
+      "trackedUrl": "https://energydrinkratings.com/drinks/grizzly-mountain-buzz?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=grizzly-mountain-buzz",
+      "imageFile": "images/grizzly-mountain-buzz.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/grizzly-mountain-buzz.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/submitted/c91cb2c0-3096-4422-9554-d22423f454e1.png",
+      "whatsNew": "New Grizzly flavor; the site now lists 10 Grizzly drinks. 160 mg caffeine per 16 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "160 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
       "ratingCount": 0
     },
     {
-      "name": "Nello Energy Winter Colada",
-      "brand": "Nello Energy",
-      "slug": "nello-energy-winter-colada",
-      "datePublished": "2026-11-06",
-      "liveDetectedOn": "2026-11-08",
-      "pageUrl": "https://energydrinkratings.com/drinks/nello-energy-winter-colada",
-      "trackedUrl": "https://energydrinkratings.com/drinks/nello-energy-winter-colada?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-08&utm_content=nello-energy-winter-colada",
-      "imageFile": "images/nello-energy-winter-colada.jpg",
-      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/nello-energy-winter-colada.jpg",
-      "imageUrl": "https://energydrinkratings.com/images/curated/3281364f-4bb1-4a8e-9e8d-2ca8f9fffaa0-front-single-2026-11-06.jpg",
-      "whatsNew": "New Nello Energy flavor; the site now lists 6 Nello Energy drinks. 150 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "name": "Goat Fuel Watermelon Fruit Punch",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-watermelon-fruit-punch",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-watermelon-fruit-punch",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-watermelon-fruit-punch?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-watermelon-fruit-punch",
+      "imageFile": "images/goat-fuel-watermelon-fruit-punch.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-watermelon-fruit-punch.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/2eed7883-ee87-481d-b3ec-5f5ff5f41626-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 15 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
       "tags": [
+        "new brand",
         "150 mg caffeine",
         "zero sugar",
         "carbonated"
       ],
       "facts": {
         "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 15,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Goat Fuel Gummy Bear",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-gummy-bear",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-gummy-bear",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-gummy-bear?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-gummy-bear",
+      "imageFile": "images/goat-fuel-gummy-bear.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-gummy-bear.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/66f28a4d-430e-4e17-8f71-5a9dccfa5167-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 15 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 15,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Goat Fuel Blueberry Lemonade",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-blueberry-lemonade",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-blueberry-lemonade",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-blueberry-lemonade?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-blueberry-lemonade",
+      "imageFile": "images/goat-fuel-blueberry-lemonade.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-blueberry-lemonade.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/5be1f756-e5b4-49c3-b2f0-0bf3af319550-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 15 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 15,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Goat Fuel Black Cherry Ginger Ale",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-black-cherry-ginger-ale",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-black-cherry-ginger-ale",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-black-cherry-ginger-ale?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-black-cherry-ginger-ale",
+      "imageFile": "images/goat-fuel-black-cherry-ginger-ale.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-black-cherry-ginger-ale.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/aba5662e-4888-442e-8a87-28df3ee0d2a9-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 200 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "200 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 200,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Goat Fuel Tropical Berry",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-tropical-berry",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-tropical-berry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-tropical-berry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-tropical-berry",
+      "imageFile": "images/goat-fuel-tropical-berry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-tropical-berry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/16adef4a-33ce-4b1f-b33b-db2a256cf06e-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 15 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 15,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Goat Fuel Pineapple Cream Soda",
+      "brand": "Goat Fuel",
+      "slug": "goat-fuel-pineapple-cream-soda",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-pineapple-cream-soda",
+      "trackedUrl": "https://energydrinkratings.com/drinks/goat-fuel-pineapple-cream-soda?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=goat-fuel-pineapple-cream-soda",
+      "imageFile": "images/goat-fuel-pineapple-cream-soda.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/goat-fuel-pineapple-cream-soda.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/c4497540-a487-4616-ba2e-be707dbea72b-front-single-2026-11-09.jpg",
+      "whatsNew": "New brand on the site: Goat Fuel (6 flavors added in this update). 200 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "200 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 200,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "3D Energy Juicy Apple",
+      "brand": "3D Energy",
+      "slug": "3d-energy-juicy-apple",
+      "datePublished": "2026-11-09",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/3d-energy-juicy-apple",
+      "trackedUrl": "https://energydrinkratings.com/drinks/3d-energy-juicy-apple?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=3d-energy-juicy-apple",
+      "imageFile": "images/3d-energy-juicy-apple.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/3d-energy-juicy-apple.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/1cc6a228-3230-4f8f-b75f-4629841e1b58-front-single-2026-11-09.jpg",
+      "whatsNew": "New 3D Energy flavor; the site now lists 19 3D Energy drinks. 200 mg caffeine per 16 fl oz, zero sugar, 10 calories (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "200 mg caffeine",
+        "zero sugar"
+      ],
+      "facts": {
+        "caffeineMg": 200,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": false
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Stacker2 Dirty Energy Soda Zero Sugar Orange Cream",
+      "brand": "Stacker2",
+      "slug": "stacker2-dirty-energy-soda-zero-sugar-orange-cream",
+      "datePublished": "2026-11-13",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/stacker2-dirty-energy-soda-zero-sugar-orange-cream",
+      "trackedUrl": "https://energydrinkratings.com/drinks/stacker2-dirty-energy-soda-zero-sugar-orange-cream?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=stacker2-dirty-energy-soda-zero-sugar-orange-cream",
+      "imageFile": "images/stacker2-dirty-energy-soda-zero-sugar-orange-cream.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/stacker2-dirty-energy-soda-zero-sugar-orange-cream.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/536e3334-fbf2-4f21-b9ea-3cc39c3aee23-front-single-2026-11-06.jpg",
+      "whatsNew": "First Stacker2 drink on the site. 150 mg caffeine per 12 fl oz, zero sugar, 5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 5,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "SpaceTime Strawberry Lime",
+      "brand": "Space Time Energy",
+      "slug": "spacetime-strawberry-lime",
+      "datePublished": "2026-11-09",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/spacetime-strawberry-lime",
+      "trackedUrl": "https://energydrinkratings.com/drinks/spacetime-strawberry-lime?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=spacetime-strawberry-lime",
+      "imageFile": "images/spacetime-strawberry-lime.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/spacetime-strawberry-lime.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/35dfb9b0-f72a-447f-9a9c-50d150ee316c-front-single-2026-10-26.jpg",
+      "whatsNew": "New Space Time Energy flavor; the site now lists 2 Space Time Energy drinks. 50 mg caffeine per 12 fl oz, 2 g sugar, 20 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "50 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 50,
+        "sugarG": 2,
+        "calories": 20,
+        "servingSizeFlOz": 12,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Monster Energy Ultra Citra",
+      "brand": "Monster Energy",
+      "slug": "monster-energy-ultra-citra",
+      "datePublished": "2026-11-10",
+      "liveDetectedOn": "2026-11-15",
+      "pageUrl": "https://energydrinkratings.com/drinks/monster-energy-ultra-citra",
+      "trackedUrl": "https://energydrinkratings.com/drinks/monster-energy-ultra-citra?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-15&utm_content=monster-energy-ultra-citra",
+      "imageFile": "images/monster-energy-ultra-citra.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/monster-energy-ultra-citra.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/28a7cb23-9bbb-4086-80dd-6c54283be510-front-single-2026-11-09.jpg",
+      "whatsNew": "New Monster Energy flavor; the site now lists 64 Monster Energy drinks. 100 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "100 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 100,
         "sugarG": 0,
         "calories": 10,
         "servingSizeFlOz": 12,

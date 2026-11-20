@@ -1,0 +1,7 @@
+Verified live Nov 15, 2026 (HTTP 200), caffeine matches page titles:
+Nello Energy Winter Colada: https://energydrinkratings.com/drinks/nello-energy-winter-colada
+Xrave Mood Energy Kiwi Lime: https://energydrinkratings.com/drinks/rave-mood-kiwi-lime
+Gorilla Mind Silverback: https://energydrinkratings.com/drinks/gorilla-mind-silverback
+FitTea Energy Strawberry Acai (caption only): https://energydrinkratings.com/drinks/fittea-energy-strawberry-acai
+Wild Power Mango and Passion Fruit (caption only): https://energydrinkratings.com/drinks/wild-power-mango-and-passion-fruit
+All five are listed on https://energydrinkratings.com/new

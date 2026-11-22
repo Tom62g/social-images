@@ -1,0 +1,17 @@
+Checked 2026-11-22 ~1:40 PM ET (HTTP status; caffeine/sugar on page vs manifest)
+https://energydrinkratings.com/drinks/goat-fuel-black-cherry-ginger-ale  200  matches manifest
+https://energydrinkratings.com/drinks/goat-fuel-pineapple-cream-soda  200  matches manifest
+https://energydrinkratings.com/drinks/goat-fuel-watermelon-fruit-punch  200  matches manifest
+https://energydrinkratings.com/drinks/goat-fuel-gummy-bear  200  matches manifest
+https://energydrinkratings.com/drinks/goat-fuel-blueberry-lemonade  200  matches manifest
+https://energydrinkratings.com/drinks/goat-fuel-tropical-berry  200  matches manifest
+https://energydrinkratings.com/drinks/xrave-mood-energy-blu-raz  200  matches manifest
+https://energydrinkratings.com/drinks/xrave-mood-energy-mango-magic  200  matches manifest
+https://energydrinkratings.com/drinks/xrave-mood-energy-watermelon  200  matches manifest
+
+Collection links:
+https://energydrinkratings.com/brands/goat-fuel  200
+https://energydrinkratings.com/brands/x-mood-drinks  200
+https://energydrinkratings.com/new  200
+https://energydrinkratings.com/brands/goat-fuel?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel  200
+https://energydrinkratings.com/brands/x-mood-drinks?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood  200

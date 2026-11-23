@@ -1,0 +1,49 @@
+{
+  "status": "DRAFT for review - not published, not scheduled",
+  "batch": {
+    "repo": "Tom62g/social-images",
+    "sourceCommit": "bfddc9d81f4012a803529d94d1d2991c8e28db84",
+    "manifest": "edr/weekly-new-drinks/latest/new-drinks.json",
+    "generatedAt": "2026-11-08T22:21:38.303Z",
+    "runDate": "2026-11-08",
+    "weekLabel": "Nov 6 to Nov 8",
+    "count": 5,
+    "dateBasis": "datePublished = day the drink went live on EDR (approx., Nov 6-7, 2026); liveDetectedOn 2026-11-08"
+  },
+  "graphic": {
+    "id": "01-just-added",
+    "headline": "Just added. Which would you crack open first?",
+    "featured": [
+      "rave-mood-kiwi-lime",
+      "gorilla-mind-silverback",
+      "nello-energy-winter-colada"
+    ],
+    "captionOnly": [
+      "fittea-energy-strawberry-acai",
+      "wild-power-mango-and-passion-fruit"
+    ],
+    "files": [
+      "01-just-added-pinterest-1000x1500.jpg",
+      "01-just-added-square-1000.jpg"
+    ],
+    "canSources": {
+      "rave-mood-kiwi-lime": "manifest image (EDR curated 7a9eb831...-front-single-2026-11-06.jpg)",
+      "nello-energy-winter-colada": "manifest image (EDR curated 3281364f...-front-single-2026-11-06.jpg)",
+      "gorilla-mind-silverback": "official Gorilla Mind product image sb-case-updated.png (front can only; case behind removed). Manifest photo crops the can base and right side, so it was not used."
+    },
+    "excludedFromArt": {
+      "fittea-energy-strawberry-acai": "manifest photo is a shelf shot with the can top and sides cropped; no complete authentic can image available",
+      "wild-power-mango-and-passion-fruit": "manifest image is the nutrition label; the newer EDR front image shows a can labelled MANGO only, not Mango and Passion Fruit"
+    }
+  },
+  "facebook": "Just added to Energy Drink Ratings: which would you crack open first?\n\n🥥 Nello Energy Winter Colada: 150 mg caffeine, 0 g sugar per 12 fl oz\n🥝 Xrave Mood Energy Kiwi Lime: 225 mg caffeine, 0 g sugar per 12 fl oz\n🦍 Gorilla Mind Silverback: 200 mg caffeine, 0 g sugar per 16 fl oz\n\nAlso new this round: FitTea Energy Strawberry Acai (200 mg, 0 g sugar per 12 fl oz) and Wild Power Mango and Passion Fruit, the first Wild Power drink on the site (75 mg caffeine, 11.25 g sugar per 8.4 fl oz).\n\nTried one? Leave the first ratings here:\nhttps://energydrinkratings.com/new?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_08&utm_content=01-just-added\n\nLabel values as listed on Energy Drink Ratings. For adults.",
+  "threads": "Just added to Energy Drink Ratings 👀\n\nNello Winter Colada (150 mg), Xrave Kiwi Lime (225 mg), Gorilla Mind Silverback (200 mg). All 0 g sugar per the labels.\n\nWhich would you crack open first?\nhttps://energydrinkratings.com/new?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_08&utm_content=01-just-added",
+  "pinterest": {
+    "title": "New Energy Drinks to Try: Nello Winter Colada, Xrave Kiwi Lime, Gorilla Mind Silverback",
+    "description": "Just added to Energy Drink Ratings: Nello Energy Winter Colada (150 mg caffeine, 0 g sugar per 12 fl oz), Xrave Mood Energy Kiwi Lime (225 mg caffeine, 0 g sugar per 12 fl oz) and Gorilla Mind Silverback (200 mg caffeine, 0 g sugar per 16 fl oz). Label values. See all the newest cans, compare caffeine and sugar, and rate the ones you've tried. For adults.",
+    "alt": "Three energy drink cans on a frosty wooden counter in front of a snowy window: Xrave Mood Energy Kiwi Lime (green), Gorilla Mind Silverback (black) and Nello Energy Winter Colada (red and light blue). Headline: Just added. Which would you crack open first?",
+    "board": "Energy Drinks",
+    "link": "https://energydrinkratings.com/new?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_08&utm_content=01-just-added",
+    "image": "01-just-added-pinterest-1000x1500.jpg"
+  }
+}

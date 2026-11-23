@@ -1,0 +1,764 @@
+{
+  "status": "new-drinks",
+  "generatedAt": "2026-11-23T01:59:50.655Z",
+  "runDate": "2026-11-22",
+  "weekLabel": "Nov 15 to Nov 22",
+  "windowStart": "2026-11-15",
+  "count": 27,
+  "dateBasis": "last update of the page when first seen live (approximate to the day)",
+  "site": "https://energydrinkratings.com",
+  "newPageUrl": "https://energydrinkratings.com/new",
+  "posterFile": "poster.png",
+  "posterUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/poster.png",
+  "rawBase": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/",
+  "note": "Facts are label values from EnergyDrinkRatings. Quote caffeine and sugar as labeled, attribute to EnergyDrinkRatings, and do not call any caffeine amount safe for a particular person. datePublished is the day the drink went live for visitors (approximate to the day: the site keeps no separate publish timestamp); liveDetectedOn is the run that first saw it live.",
+  "drinks": [
+    {
+      "name": "Kill Cliff Cherry Lime Grenade",
+      "brand": "Kill Cliff",
+      "slug": "kill-cliff-cherry-lime-grenade",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/kill-cliff-cherry-lime-grenade",
+      "trackedUrl": "https://energydrinkratings.com/drinks/kill-cliff-cherry-lime-grenade?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=kill-cliff-cherry-lime-grenade",
+      "imageFile": "images/kill-cliff-cherry-lime-grenade.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/kill-cliff-cherry-lime-grenade.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/b116b490-578c-4778-9a53-a6072de9417b-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Kill Cliff (2 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Libertycall",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-libertycall",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-libertycall",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-libertycall?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-libertycall",
+      "imageFile": "images/bulkhead-energy-libertycall.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-libertycall.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/4f256966-b4eb-4bde-b889-a3c1b53a60d9-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Reveille",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-reveille",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-reveille",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-reveille?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-reveille",
+      "imageFile": "images/bulkhead-energy-reveille.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-reveille.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/6e0c5398-eb47-4f93-98c8-0a23ac412c83-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Shellback",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-shellback",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-shellback",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-shellback?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-shellback",
+      "imageFile": "images/bulkhead-energy-shellback.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-shellback.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/5223c274-cb35-4031-a46d-714d2ae962d5-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Sierra Lima",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-sierra-lima",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-sierra-lima",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-sierra-lima?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-sierra-lima",
+      "imageFile": "images/bulkhead-energy-sierra-lima.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-sierra-lima.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/c766dad6-f90d-492b-8db3-b6b4f030e08a-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Bravo Yuzu",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-bravo-yuzu",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-bravo-yuzu",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-bravo-yuzu?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-bravo-yuzu",
+      "imageFile": "images/bulkhead-energy-bravo-yuzu.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-bravo-yuzu.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/d40763f9-b27f-4a34-b7ef-a50ae6a1c7f5-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Not In Regs",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-not-in-regs",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-not-in-regs",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-not-in-regs?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-not-in-regs",
+      "imageFile": "images/bulkhead-energy-not-in-regs.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-not-in-regs.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/d794b222-1cce-4805-9fc3-68e47b09e0f5-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Pink Mist",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-pink-mist",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-pink-mist",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-pink-mist?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-pink-mist",
+      "imageFile": "images/bulkhead-energy-pink-mist.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-pink-mist.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/57c8ae53-b238-45fd-83f6-93a67e01d8bb-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bulkhead Energy Rah-Berry",
+      "brand": "Bulkhead Energy",
+      "slug": "bulkhead-energy-rah-berry",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-rah-berry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bulkhead-energy-rah-berry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bulkhead-energy-rah-berry",
+      "imageFile": "images/bulkhead-energy-rah-berry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bulkhead-energy-rah-berry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/f5f04de2-687e-404d-93d7-2af96a52f3b6-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Bulkhead Energy (8 flavors added in this update). 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "CEFI Tactical Energy Phantom Grape",
+      "brand": "CEFI",
+      "slug": "cefi-tactical-energy-phantom-grape",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-phantom-grape",
+      "trackedUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-phantom-grape?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=cefi-tactical-energy-phantom-grape",
+      "imageFile": "images/cefi-tactical-energy-phantom-grape.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/cefi-tactical-energy-phantom-grape.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/fd059785-5beb-4510-a6f7-db0741bed242-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: CEFI (3 flavors added in this update). 160 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "160 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "CEFI Tactical Energy Double Stack Watermelon",
+      "brand": "CEFI",
+      "slug": "cefi-tactical-energy-double-stack-watermelon",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-double-stack-watermelon",
+      "trackedUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-double-stack-watermelon?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=cefi-tactical-energy-double-stack-watermelon",
+      "imageFile": "images/cefi-tactical-energy-double-stack-watermelon.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/cefi-tactical-energy-double-stack-watermelon.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/f0f6cbc9-d256-4e55-977a-eb013577acc7-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: CEFI (3 flavors added in this update). 160 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "160 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "CEFI Tactical Energy Safe House Cream Orange",
+      "brand": "CEFI",
+      "slug": "cefi-tactical-energy-safe-house-cream-orange",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-safe-house-cream-orange",
+      "trackedUrl": "https://energydrinkratings.com/drinks/cefi-tactical-energy-safe-house-cream-orange?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=cefi-tactical-energy-safe-house-cream-orange",
+      "imageFile": "images/cefi-tactical-energy-safe-house-cream-orange.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/cefi-tactical-energy-safe-house-cream-orange.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/7946c6f4-0720-433f-b2fa-e720ef612eca-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: CEFI (3 flavors added in this update). 160 mg caffeine per 12 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "160 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 160,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Kill Cliff Spicy Pineapple",
+      "brand": "Kill Cliff",
+      "slug": "kill-cliff-spicy-pineapple",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/kill-cliff-spicy-pineapple",
+      "trackedUrl": "https://energydrinkratings.com/drinks/kill-cliff-spicy-pineapple?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=kill-cliff-spicy-pineapple",
+      "imageFile": "images/kill-cliff-spicy-pineapple.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/kill-cliff-spicy-pineapple.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/c74cff11-2c37-4faa-94c2-98da13460d72-front-single-2026-11-21.jpg",
+      "whatsNew": "New brand on the site: Kill Cliff (2 flavors added in this update). 150 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "150 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 150,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bang American Berry",
+      "brand": "Bang",
+      "slug": "bang-american-berry",
+      "datePublished": "2026-11-18",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bang-american-berry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bang-american-berry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bang-american-berry",
+      "imageFile": "images/bang-american-berry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bang-american-berry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/7c853db4-2bed-4645-9224-011525b7e6d7-front-single-2026-11-18.png",
+      "whatsNew": "New Bang flavor; the site now lists 50 Bang drinks. 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy White Peach",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-white-peach",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-white-peach",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-white-peach?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-white-peach",
+      "imageFile": "images/rite-energy-white-peach.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-white-peach.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/2b4f3fb9-58a9-4f30-bf0c-98ce1e700c06-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy Watermelon Lime",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-watermelon-lime",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-watermelon-lime",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-watermelon-lime?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-watermelon-lime",
+      "imageFile": "images/rite-energy-watermelon-lime.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-watermelon-lime.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/0cc6fde7-3fd1-4286-97ff-2193303f3e1e-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy Strawberry",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-strawberry",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-strawberry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-strawberry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-strawberry",
+      "imageFile": "images/rite-energy-strawberry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-strawberry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/cfa009e4-b961-4a58-80d5-4e11b4fe57b7-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy Lemon Lime",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-lemon-lime",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-lemon-lime",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-lemon-lime?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-lemon-lime",
+      "imageFile": "images/rite-energy-lemon-lime.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-lemon-lime.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/05d0a16b-b3bb-4c83-85c1-a4706195d7eb-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy Blue Raspberry",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-blue-raspberry",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-blue-raspberry",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-blue-raspberry?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-blue-raspberry",
+      "imageFile": "images/rite-energy-blue-raspberry.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-blue-raspberry.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/8408ceea-55c6-4491-a383-4f799e7920ec-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "RITE Energy Blackberry Lemonade",
+      "brand": "RITE Energy",
+      "slug": "rite-energy-blackberry-lemonade",
+      "datePublished": "2026-11-21",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/rite-energy-blackberry-lemonade",
+      "trackedUrl": "https://energydrinkratings.com/drinks/rite-energy-blackberry-lemonade?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=rite-energy-blackberry-lemonade",
+      "imageFile": "images/rite-energy-blackberry-lemonade.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/rite-energy-blackberry-lemonade.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/bf23cfec-5eab-4803-a04a-901862dac998-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: RITE Energy (6 flavors added in this update). 0 mg caffeine per 12 fl oz, zero sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "0 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 0,
+        "sugarG": 0,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Gigli Daily Lift Strawberry Yuzu",
+      "brand": "Gigli Energy",
+      "slug": "gigli-daily-lift-strawberry-yuzu",
+      "datePublished": "2026-11-18",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/gigli-daily-lift-strawberry-yuzu",
+      "trackedUrl": "https://energydrinkratings.com/drinks/gigli-daily-lift-strawberry-yuzu?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=gigli-daily-lift-strawberry-yuzu",
+      "imageFile": "images/gigli-daily-lift-strawberry-yuzu.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/gigli-daily-lift-strawberry-yuzu.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/a0763499-0ed4-4ab2-a31c-121e7a1662c9-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: Gigli Energy (2 flavors added in this update). 180 mg caffeine per 12 fl oz, 3 g sugar, 15 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "180 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 180,
+        "sugarG": 3,
+        "calories": 15,
+        "servingSizeFlOz": 12,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Gigli Daily Lift Mango Peach",
+      "brand": "Gigli Energy",
+      "slug": "gigli-daily-lift-mango-peach",
+      "datePublished": "2026-11-18",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/gigli-daily-lift-mango-peach",
+      "trackedUrl": "https://energydrinkratings.com/drinks/gigli-daily-lift-mango-peach?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=gigli-daily-lift-mango-peach",
+      "imageFile": "images/gigli-daily-lift-mango-peach.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/gigli-daily-lift-mango-peach.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/44faf339-098b-4e25-b515-709e0acb9058-front-single-2026-11-18.jpg",
+      "whatsNew": "New brand on the site: Gigli Energy (2 flavors added in this update). 180 mg caffeine per 12 fl oz, 3 g sugar, 10 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "180 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 180,
+        "sugarG": 3,
+        "calories": 10,
+        "servingSizeFlOz": 12,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Bang Blood Orange Sorbet",
+      "brand": "Bang",
+      "slug": "bang-blood-orange-sorbet",
+      "datePublished": "2026-11-17",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/bang-blood-orange-sorbet",
+      "trackedUrl": "https://energydrinkratings.com/drinks/bang-blood-orange-sorbet?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=bang-blood-orange-sorbet",
+      "imageFile": "images/bang-blood-orange-sorbet.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/bang-blood-orange-sorbet.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/28a42127-b955-4cea-b0bc-0af774ac7a9f-front-2026-11-17.jpg",
+      "whatsNew": "New Bang flavor; the site now lists 50 Bang drinks. 300 mg caffeine per 16 fl oz, zero sugar, 0 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "300 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 300,
+        "sugarG": 0,
+        "calories": 0,
+        "servingSizeFlOz": 16,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Mateina Mint Limeade",
+      "brand": "Mateina",
+      "slug": "mateina-mint-limeade",
+      "datePublished": "2026-11-16",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/mateina-mint-limeade",
+      "trackedUrl": "https://energydrinkratings.com/drinks/mateina-mint-limeade?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=mateina-mint-limeade",
+      "imageFile": "images/mateina-mint-limeade.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/mateina-mint-limeade.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/e57ab993-7e60-4d3a-bb2f-4c7d94807bf9-inhand-front-2026-11-16.jpg",
+      "whatsNew": "New brand on the site: Mateina (2 flavors added in this update). 120 mg caffeine per 12 fl oz, zero sugar, 20 calories (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "120 mg caffeine",
+        "zero sugar"
+      ],
+      "facts": {
+        "caffeineMg": 120,
+        "sugarG": 0,
+        "calories": 20,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": false
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Mateina Lemon Original",
+      "brand": "Mateina",
+      "slug": "mateina-lemon-original",
+      "datePublished": "2026-11-19",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/mateina-lemon-original",
+      "trackedUrl": "https://energydrinkratings.com/drinks/mateina-lemon-original?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=mateina-lemon-original",
+      "imageFile": "images/mateina-lemon-original.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/mateina-lemon-original.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/submitted/dad07365-6ad7-424d-93d5-74eab4250af3.jpg",
+      "whatsNew": "New brand on the site: Mateina (2 flavors added in this update). 120 mg caffeine per 12 fl oz, zero sugar, 20 calories (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "new brand",
+        "120 mg caffeine",
+        "zero sugar"
+      ],
+      "facts": {
+        "caffeineMg": 120,
+        "sugarG": 0,
+        "calories": 20,
+        "servingSizeFlOz": 12,
+        "sugarFree": true,
+        "carbonated": false
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "Wild Power Zero Sugar",
+      "brand": "Wild Power Energy",
+      "slug": "wild-power-zero-sugar",
+      "datePublished": "2026-11-18",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/wild-power-zero-sugar",
+      "trackedUrl": "https://energydrinkratings.com/drinks/wild-power-zero-sugar?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=wild-power-zero-sugar",
+      "imageFile": "images/wild-power-zero-sugar.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/wild-power-zero-sugar.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/2f0fafa6-3566-4941-a35f-3f24f769dca1-front-single-2026-11-13.jpg",
+      "whatsNew": "New Wild Power Energy flavor; the site now lists 2 Wild Power Energy drinks. 80 mg caffeine per 8.4 fl oz, zero sugar, 7.5 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "80 mg caffeine",
+        "zero sugar",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 80,
+        "sugarG": 0,
+        "calories": 7.5,
+        "servingSizeFlOz": 8.4,
+        "sugarFree": true,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    },
+    {
+      "name": "SpaceTime Peach Black Tea",
+      "brand": "Space Time Energy",
+      "slug": "spacetime-peach-black-tea",
+      "datePublished": "2026-11-18",
+      "liveDetectedOn": "2026-11-22",
+      "pageUrl": "https://energydrinkratings.com/drinks/spacetime-peach-black-tea",
+      "trackedUrl": "https://energydrinkratings.com/drinks/spacetime-peach-black-tea?utm_source=grok&utm_medium=social&utm_campaign=edr_new_weekly_2026-11-22&utm_content=spacetime-peach-black-tea",
+      "imageFile": "images/spacetime-peach-black-tea.jpg",
+      "imageRawUrl": "https://raw.githubusercontent.com/Tom62g/social-images/main/edr/weekly-new-drinks/latest/images/spacetime-peach-black-tea.jpg",
+      "imageUrl": "https://energydrinkratings.com/images/curated/acc5649b-39c7-4b7a-88b5-b5c16bfec692-front-single-2026-10-26.jpg",
+      "whatsNew": "New Space Time Energy flavor; the site now lists 3 Space Time Energy drinks. 50 mg caffeine per 12 fl oz, 2 g sugar, 20 calories, carbonated (label values). No ratings yet, so the first rating counts for a lot.",
+      "tags": [
+        "50 mg caffeine",
+        "carbonated"
+      ],
+      "facts": {
+        "caffeineMg": 50,
+        "sugarG": 2,
+        "calories": 20,
+        "servingSizeFlOz": 12,
+        "sugarFree": false,
+        "carbonated": true
+      },
+      "ratingCount": 0
+    }
+  ]
+}

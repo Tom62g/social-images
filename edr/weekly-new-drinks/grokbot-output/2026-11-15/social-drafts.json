@@ -1,0 +1,147 @@
+{
+ "status": "DRAFTS",
+ "batch": {
+  "runDate": "2026-11-15",
+  "weekLabel": "Nov 8 to Nov 15",
+  "generatedAt": "2026-11-15T18:18:30.868Z",
+  "count": 29,
+  "status": "new-drinks",
+  "sourceCommit": "8f2885c79cc3594e9987bea5c37ca38ea9ec77ac",
+  "committedAt": "2026-11-15T13:18:47-05:00",
+  "arrivedLate": true,
+  "dateBasis": "last update of the page when first seen live (approximate to the day)"
+ },
+ "utmCampaign": "edr_catalog_additions_2026_11_15",
+ "createdAt": "2026-11-22T13:45:00-05:00",
+ "themes": [
+  {
+   "theme": "01-goat-fuel",
+   "graphics": {
+    "pinterest": "graphics/01-goat-fuel-pinterest-1000x1500.jpg",
+    "square": "graphics/01-goat-fuel-square-1000.jpg"
+   },
+   "link": "https://energydrinkratings.com/brands/goat-fuel",
+   "utm": {
+    "facebook": "https://energydrinkratings.com/brands/goat-fuel?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel",
+    "threads": "https://energydrinkratings.com/brands/goat-fuel?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel",
+    "pinterest": "https://energydrinkratings.com/brands/goat-fuel?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel"
+   },
+   "facebook": "Goat Fuel is now on Energy Drink Ratings, with 6 flavors added to the catalog this week.\n\nLabel values per 12 fl oz can, all zero sugar:\n\u2022 Black Cherry Ginger Ale: 200 mg caffeine\n\u2022 Pineapple Cream Soda: 200 mg caffeine\n\u2022 Watermelon Fruit Punch: 150 mg caffeine\n\u2022 Gummy Bear: 150 mg caffeine\n\u2022 Blueberry Lemonade: 150 mg caffeine\n\u2022 Tropical Berry: 150 mg caffeine\n\nNone of them has a rating yet. Tried one? Your rating will be the first.\n\nWhich would you open first, Black Cherry Ginger Ale or Pineapple Cream Soda?\n\nhttps://energydrinkratings.com/brands/goat-fuel?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel",
+   "threads": "Goat Fuel is now on EDR: 6 flavors added.\n\nThe two soda-style ones are the 200 mg cans (label values, 12 fl oz, zero sugar): Black Cherry Ginger Ale and Pineapple Cream Soda. The other four list 150 mg.\n\nNo ratings yet. Which would you try first?\n\nhttps://energydrinkratings.com/brands/goat-fuel?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel",
+   "threadsChars": 403,
+   "pinterest": {
+    "title": "Goat Fuel energy drink flavors: caffeine and sugar for all 6",
+    "description": "Goat Fuel is now on Energy Drink Ratings with 6 flavors: Black Cherry Ginger Ale, Pineapple Cream Soda, Watermelon Fruit Punch, Gummy Bear, Blueberry Lemonade and Tropical Berry. Label values per 12 fl oz can: 200 mg caffeine for Black Cherry Ginger Ale and Pineapple Cream Soda, 150 mg for the rest, all zero sugar. See each flavor and add the first rating.",
+    "alt": "Three Goat Fuel Sports Energy cans standing on a dark counter: green Black Cherry Ginger Ale, cream-colored Pineapple Cream Soda and red Watermelon Fruit Punch, under the headline 'Goat Fuel just landed on EDR. 6 flavors added. Which first?'",
+    "board": "Energy Drinks",
+    "link": "https://energydrinkratings.com/brands/goat-fuel?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=01-goat-fuel"
+   },
+   "cansOnGraphic": [
+    {
+     "slug": "goat-fuel-black-cherry-ginger-ale",
+     "name": "Goat Fuel Black Cherry Ginger Ale",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-black-cherry-ginger-ale",
+     "caffeineMg": 200,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/goat-fuel-black-cherry-ginger-ale.jpg @ 8f2885c"
+    },
+    {
+     "slug": "goat-fuel-pineapple-cream-soda",
+     "name": "Goat Fuel Pineapple Cream Soda",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-pineapple-cream-soda",
+     "caffeineMg": 200,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/goat-fuel-pineapple-cream-soda.jpg @ 8f2885c"
+    },
+    {
+     "slug": "goat-fuel-watermelon-fruit-punch",
+     "name": "Goat Fuel Watermelon Fruit Punch",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-watermelon-fruit-punch",
+     "caffeineMg": 150,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/goat-fuel-watermelon-fruit-punch.jpg @ 8f2885c"
+    }
+   ],
+   "captionOnly": [
+    {
+     "slug": "goat-fuel-gummy-bear",
+     "name": "Goat Fuel Gummy Bear",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-gummy-bear",
+     "caffeineMg": 150,
+     "sugarG": 0
+    },
+    {
+     "slug": "goat-fuel-blueberry-lemonade",
+     "name": "Goat Fuel Blueberry Lemonade",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-blueberry-lemonade",
+     "caffeineMg": 150,
+     "sugarG": 0
+    },
+    {
+     "slug": "goat-fuel-tropical-berry",
+     "name": "Goat Fuel Tropical Berry",
+     "pageUrl": "https://energydrinkratings.com/drinks/goat-fuel-tropical-berry",
+     "caffeineMg": 150,
+     "sugarG": 0
+    }
+   ]
+  },
+  {
+   "theme": "02-xrave-mood",
+   "graphics": {
+    "pinterest": "graphics/02-xrave-mood-pinterest-1000x1500.jpg",
+    "square": "graphics/02-xrave-mood-square-1000.jpg"
+   },
+   "link": "https://energydrinkratings.com/brands/x-mood-drinks",
+   "utm": {
+    "facebook": "https://energydrinkratings.com/brands/x-mood-drinks?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood",
+    "threads": "https://energydrinkratings.com/brands/x-mood-drinks?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood",
+    "pinterest": "https://energydrinkratings.com/brands/x-mood-drinks?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood"
+   },
+   "facebook": "Three more Xrave Mood Energy flavors are now on Energy Drink Ratings: Blu Raz, Mango Magic and Watermelon.\n\nLabel values: 225 mg caffeine per 12 fl oz can and zero sugar for all three.\n\nEDR now lists 7 Xrave Mood Energy drinks, and none of these three has a rating yet.\n\nBlu Raz, Mango Magic or Watermelon: which one are you picking?\n\nhttps://energydrinkratings.com/brands/x-mood-drinks?utm_source=facebook&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood",
+   "threads": "3 Xrave Mood Energy flavors just added to EDR: Blu Raz, Mango Magic, Watermelon.\n\nLabel says 225 mg caffeine per 12 fl oz, zero sugar, for all three.\n\nNo ratings yet. Which one would you pick?\n\nhttps://energydrinkratings.com/brands/x-mood-drinks?utm_source=threads&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood",
+   "threadsChars": 354,
+   "pinterest": {
+    "title": "Xrave Mood Energy: Blu Raz, Mango Magic and Watermelon (225 mg)",
+    "description": "Three Xrave Mood Energy flavors are now on Energy Drink Ratings: Blu Raz, Mango Magic and Watermelon. Label values: 225 mg caffeine per 12 fl oz can, zero sugar. See all 7 Xrave Mood Energy drinks and add the first rating.",
+    "alt": "Three Xrave Mood Energy cans in blue Blu Raz, orange Mango Magic and red Watermelon, each with a rainbow triangle logo, on a dark counter in purple and pink light, under the headline 'Blu Raz, Mango Magic or Watermelon?'",
+    "board": "Energy Drinks",
+    "link": "https://energydrinkratings.com/brands/x-mood-drinks?utm_source=pinterest&utm_medium=social&utm_campaign=edr_catalog_additions_2026_11_15&utm_content=02-xrave-mood"
+   },
+   "cansOnGraphic": [
+    {
+     "slug": "xrave-mood-energy-blu-raz",
+     "name": "Xrave Mood Energy Blu Raz",
+     "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-blu-raz",
+     "caffeineMg": 225,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/xrave-mood-energy-blu-raz.jpg @ 8f2885c"
+    },
+    {
+     "slug": "xrave-mood-energy-mango-magic",
+     "name": "Xrave Mood Energy Mango Magic",
+     "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-mango-magic",
+     "caffeineMg": 225,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/xrave-mood-energy-mango-magic.jpg @ 8f2885c"
+    },
+    {
+     "slug": "xrave-mood-energy-watermelon",
+     "name": "Xrave Mood Energy Watermelon",
+     "pageUrl": "https://energydrinkratings.com/drinks/xrave-mood-energy-watermelon",
+     "caffeineMg": 225,
+     "sugarG": 0,
+     "servingFlOz": 12,
+     "imageSource": "manifest image images/xrave-mood-energy-watermelon.jpg @ 8f2885c"
+    }
+   ],
+   "captionOnly": []
+  }
+ ],
+ "notes": "Catalog additions, not launches. Facts are label values from EnergyDrinkRatings. Nothing posted or scheduled."
+}
